@@ -11,6 +11,15 @@ The dataset used for this assignment is a modified version of the Optical Recogn
 - train_inputs.csv: Input features for training.
 - train_targets.csv: Corresponding class labels (5 or 6).
 
+__Tools and Libraries Used__
+
+Google Colab: Used for running the Jupyter notebook in a cloud environment.                                                                                   
+Python Libraries:
+- pandas: For loading and processing the dataset.
+- numpy: For numerical computations.
+- matplotlib: For plotting the accuracy graph.
+- scikit-learn: For cross-validation and evaluation metrics.
+
 __Results__
 
 The following results were obtained:
